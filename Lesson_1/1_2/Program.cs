@@ -33,3 +33,6 @@ else if (day == 7)
 {
     Console.WriteLine("Sunday");
 }
+else
+    Console.WriteLine("not a day of week");
+    
